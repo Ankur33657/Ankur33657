@@ -34,8 +34,6 @@ production-ready applications and solving complex engineering problems.
 
 ![Spring
 Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring
-Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Databases & Infrastructure
 
@@ -130,9 +128,9 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur3
 
 ## 🤝 Connect With Me
 
--   💼 LinkedIn: **Add your LinkedIn URL**
--   🌐 Portfolio: **Add your Portfolio URL**
--   📧 Email: **Add your professional email**
+-   💼 LinkedIn: [https://www.linkedin.com/in/ankur-singh-8b470b206/?isSelfProfile=true]
+-   🌐 Portfolio: [https://portfolio-website-fawn-mu-61.vercel.app/]
+-   📧 Email: [ankursingh3362869@gmail.com]
 
 ------------------------------------------------------------------------
 
